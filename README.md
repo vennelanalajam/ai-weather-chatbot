@@ -28,5 +28,5 @@ It features a clean and user-friendly **GUI built with Tkinter**, displaying tem
 
 1️⃣ **Clone this repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Weather-Chatbot.git
+git clone https://github.com/vennelanalajam/AI-Weather-Chatbot.git
 cd AI-Weather-Chatbot
